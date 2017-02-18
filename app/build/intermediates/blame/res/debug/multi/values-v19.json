@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 77,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 345
+                    }
+                }
+            }
+        ]
+    }
+]

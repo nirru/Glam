@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lotche</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+    <string name="grid">Grid</string>
+    <string name="cart">Cart</string>
+
+    <string name="account">Account</string>
+    <string name="login">Login</string>
+    <string name="settings">SETTINGS</string>
+    <string name="push_notif">Push Notifications</string>
+    <string name="email_notif">Email Notifications</string>
+    <string name="tnc">Terms &amp; Conditions</string>
+
+
+    <string name="create_acc">Create Account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forget_pwd">Forgot Password?</string>
+    <string name="sign_up">&lt;u>New here? Sign up&lt;/u></string>
+    <string name="sign_in_fb">Sign in with Facebook</string>
+    <string-array name="arr_dropdown">
+        <item>Popular</item>
+        <item>Latest</item>
+        <item>Discount</item>
+        <item>On Sale</item>
+        <item>Upcoming</item>
+    </string-array>
+
+    <string-array name="arr_email">
+        <item>example@gmail.com</item>
+        <item>example1@gmail.com</item>
+        <item>example2@gmail.com</item>
+    </string-array>
+    <string name="credit_cards">Credit Cards</string>
+    <string name="email1">Email</string>
+    <string name="detail_temp">Moto 360 stays true to the timeless form of the classic wristwatch. A round ... That\'s why all the leather used for Moto 360 comes from American leather crafters.\n\nThe 203 Series is a comprehensive update of the 200 collection. With many design details drawn from the 302 Series chrongraph, the 203 Series still maintains reference to the engineering dials it was inspired by. The 40mm two-part case features a lugless design and a chamfered bezel.</string>
+
+
+    <!-- UI -->
+    <string name="default_checkout_error">Could not checkout at this time</string>
+    <string name="loading">Loading</string>
+    <string name="loading_product_details">Loading product details</string>
+    <string name="loading_checkout_page">Loading checkout</string>
+    <string name="sold_out">Sold Out</string>
+    <string name="selected">Selected</string>
+    <string name="confirm_order">Confirm Order</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="loading_data">Loading data from store...</string>
+    <string name="syncing_data">Syncing data with Checkout API...</string>
+    <string name="error">Error! See logcat for details.</string>
+    <string name="shop_error">Error! Could not load shop. ProductDetailsActivity will not work.</string>
+
+    <string name="choose_collection">Choose Collection</string>
+    <string name="all_products">All Products</string>
+
+    <string name="choose_product">Choose Product</string>
+    <string name="demo_product_details_activity">Demo ProductDetailsActivity</string>
+    <string name="theme_style">Theme Style</string>
+    <string name="shows_product_image_bg">Shows Product Image BG</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="dark">DARK</string>
+    <string name="light">LIGHT</string>
+    <string name="choose_accent_color">Choose Accent Color</string>
+
+    <string name="choose_shipping_rate">Choose Shipping Rate</string>
+    <string name="no_shipping_rates">Product can\'t be shipped to your address.</string>
+
+    <string name="apply_discounts">Apply Discounts</string>
+    <string name="apply_discount">Apply Discount</string>
+    <string name="apply_gift_card">Apply Gift Card</string>
+    <string name="enter_discount_code">Enter Discount Code</string>
+    <string name="enter_gift_card_code">Enter Gift Card Code</string>
+    <string name="discount_code">Discount Code</string>
+    <string name="gift_card_code">Gift Card Code</string>
+    <string name="checkout">Checkout</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="discount_error">Could not apply discount code %s</string>
+    <string name="gift_card_error">Could not apply gift card code %s</string>
+
+    <string name="native_checkout">Checkout with Fake Credit Card</string>
+    <string name="web_checkout">Web Checkout</string>
+    <string name="cart_permalink">Cart Permalink</string>
+    <string name="completing_checkout">Completing checkout...</string>
+    <string name="getting_checkout_status">Getting checkout status...</string>
+    <string name="checkout_complete">Checkout complete!</string>
+    <string name="checkout_error">Could not complete checkout</string>
+    <string name="unsupported_gateway">Could not create a checkout. Is your payment gateway supported?</string>
+
+    <string name="subtotal">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="gift_card">Gift Card</string>
+    <string name="shipping">Shipping</string>
+    <string name="taxes">Taxes</string>
+    <string name="total">Total</string>
+
+    <!-- Custom URL Scheme -->
+    <string name="web_return_to_scheme">Lotche</string>
+    <string name="web_return_to_url">"Lotche://"</string>
+    <string name="web_return_to_label">"Return to Lotche</string>
+
+    <!-- Android Pay -->
+    <string name="thanks">Thanks for your order</string>
+    <string name="confirmation_details">Confirmation details</string>
+    <string name="secured_by">Secured By</string>
+    <string name="merchant_name">A Sample Merchant</string>
+
+    <!-- Customers and Orders -->
+    <string name="collection_list_orders">Orders</string>
+
+    <string name="collection_list_menu_action_login">Log In</string>
+    <string name="collection_list_menu_action_logout">Log Out</string>
+
+    <string name="customer_login_title">Customer Login</string>
+    <string name="customer_login_email_hint">Email</string>
+    <string name="customer_login_email_error_hint">Email can\'t be empty</string>
+    <string name="customer_login_password_hint">Password</string>
+    <string name="customer_login_password_error_hint">Password can\'t be empty</string>
+    <string name="customer_login_first_name_hint">First Name</string>
+    <string name="customer_login_first_name_error_hint">First Name can\'t be empty</string>
+    <string name="customer_login_last_name_hint">Last Name</string>
+    <string name="customer_login_last_name_error_hint">Last Name can\'t be empty</string>
+    <string name="customer_login_register_button">Sign Up</string>
+    <string name="customer_login_login_button">Log in</string>
+    <string name="customer_login_cancel_button">Cancel</string>
+
+    <string name="customer_order_list_title">Orders</string>
+    <string name="customer_order_list_total_price" formatted="false">Total: %s %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

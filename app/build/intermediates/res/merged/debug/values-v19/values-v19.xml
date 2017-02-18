@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.StatusBarOverlay" parent="@style/AppTheme">
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowTranslucentNavigation">false</item>
+    <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>

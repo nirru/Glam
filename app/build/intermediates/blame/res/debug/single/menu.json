@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/menu/menu_cart.xml",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/menu/menu_cart.xml"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/menu/search_exp.xml",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/menu/search_exp.xml"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/menu/cart.xml",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/menu/cart.xml"
+    }
+]

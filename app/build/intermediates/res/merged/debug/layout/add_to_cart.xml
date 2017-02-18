@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@android:style/Widget.ActionButton"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:clickable="true"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/hotlist_bell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:contentDescription="Cart Icon"
+        android:gravity="center"
+        android:src="@drawable/cart" />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circular_shape_text"
+        android:layout_marginTop="-10dp"
+        android:layout_marginLeft="-5dp"
+        android:layout_toRightOf="@id/hotlist_bell"
+        android:gravity="center"
+        android:text="02"
+        android:textStyle="bold"
+        android:textColor="@color/main_color"
+        android:textSize="9sp" />
+</RelativeLayout>

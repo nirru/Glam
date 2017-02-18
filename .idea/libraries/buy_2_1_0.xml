@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="buy-2.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.shopify.mobilebuysdk/buy/2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.shopify.mobilebuysdk/buy/2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shopify.mobilebuysdk/buy/2.1.0/9f29f5e20ee657f103530ad1b757e7fa0e9cf8ca/buy-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

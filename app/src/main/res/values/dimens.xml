@@ -1,0 +1,60 @@
+<resources>
+
+    <dimen name="pad_1dp">1dp</dimen>
+    <dimen name="pad_3dp">3dp</dimen>
+	<dimen name="pad_5dp">5dp</dimen>
+	<dimen name="pad_10dp">10dp</dimen>
+	<dimen name="pad_15dp">15dp</dimen>
+	<dimen name="pad_20dp">20dp</dimen>
+	<dimen name="pad_30dp">30dp</dimen>
+	<dimen name="pad_50dp">50dp</dimen>
+	<dimen name="pad_80dp">80dp</dimen>
+	<dimen name="pad_125dp">125dp</dimen>
+	<dimen name="pad_155dp">155dp</dimen>
+	<dimen name="pad_196dp">196dp</dimen>
+	<dimen name="pad_200dp">200dp</dimen>
+	<dimen name="pad_250dp">250dp</dimen>
+	
+	<dimen name="txt_7sp">7sp</dimen>
+	<dimen name="txt_11sp">11sp</dimen>
+	<dimen name="txt_12sp">12sp</dimen>
+	<dimen name="txt_13sp">13sp</dimen>
+	<dimen name="txt_14sp">14sp</dimen>
+	<dimen name="txt_15sp">15sp</dimen>
+	<dimen name="txt_16sp">16sp</dimen>
+	<dimen name="txt_18sp">18sp</dimen>
+	<dimen name="txt_20sp">20sp</dimen>
+	<dimen name="txt_25sp">25sp</dimen>
+	<dimen name="divider">0.5dp</dimen>
+	
+	<dimen name="action_bar_auto_hide_min_y">152dp</dimen>
+    <dimen name="action_bar_auto_hide_sensivity">48dp</dimen>
+
+	<!--Common Text Sizes-->
+	<dimen name="text_mega">30sp</dimen>
+	<dimen name="text_extra_large">22sp</dimen>
+	<dimen name="text_large">20sp</dimen>
+	<dimen name="text_medium">18sp</dimen>
+	<dimen name="text_small">14sp</dimen>
+	<dimen name="text_extra_small">10sp</dimen>
+
+	<!-- Common Padding Values-->
+	<dimen name="spacing_4dp">4dp</dimen>
+	<dimen name="spacing_6dp">6dp</dimen>
+	<dimen name="spacing_12dp">12dp</dimen>
+	<dimen name="spacing_16dp">16dp</dimen>
+	<dimen name="dialog_rounded_corner">2dp</dimen>
+
+	<!--Custom Dimensions-->
+	<dimen name="product_image_gallery_tab_indicator_height">3dp</dimen>
+	<dimen name="product_image_gallery_thumbnail_indicator_width">60dp</dimen>
+	<dimen name="product_image_gallery_thumbnail_indicator_height">60dp</dimen>
+	<dimen name="dialog_title_view_gap">32dp</dimen>
+	<dimen name="checkout_button_height">54dp</dimen>
+	<dimen name="scroll_view_bottom_padding">110dp</dimen>
+	<dimen name="action_bar_height">56dp</dimen>
+	<dimen name="loading_indicator_size">24dp</dimen>
+	<dimen name="image_top_gradient_size">108dp</dimen>
+	<dimen name="drop_shadow_size">2dp</dimen>
+</resources>
+
