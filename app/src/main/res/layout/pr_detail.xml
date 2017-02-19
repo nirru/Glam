@@ -49,7 +49,7 @@
                     android:paddingLeft="@dimen/pad_10dp"
                     android:paddingTop="@dimen/pad_10dp"/>
                 <TextView
-                    android:id="@+id/lbl1"
+                    android:id="@+id/lbl2"
                     style="@style/lbl_setting2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -91,7 +91,7 @@
                 </LinearLayout>
 
                 <TextView
-                    android:id="@+id/lbl2"
+                    android:id="@+id/lbl3"
                     style="@style/lbl_setting2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

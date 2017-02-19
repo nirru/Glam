@@ -52,7 +52,7 @@
                     android:text="@string/tnc" />
 
                 <View
-                    android:id="@+id/view1"
+                    android:id="@+id/view5"
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/divider"
                     android:layout_marginBottom="@dimen/pad_10dp"
@@ -70,7 +70,7 @@
                     android:text="@string/push_notif" />
 
                 <View
-                    android:id="@+id/view1"
+                    android:id="@+id/view2"
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/divider"
                     android:layout_marginBottom="@dimen/pad_10dp"
@@ -78,7 +78,7 @@
                     android:background="@color/main_grey_lt" />
 
                 <Switch
-                    android:id="@+id/switch1"
+                    android:id="@+id/switch2"
                     style="@style/switch_custom"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -87,7 +87,7 @@
                     android:textOff="" />
 
                 <View
-                    android:id="@+id/view1"
+                    android:id="@+id/view3"
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/divider"
                     android:layout_marginBottom="@dimen/pad_10dp"

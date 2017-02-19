@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/on_sale_top.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/on_sale_top.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/switch_bg_active.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/switch_bg_active.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/on_sale_top.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/on_sale_top.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/popularity_img2.png",
@@ -108,12 +108,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/splash_bg.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_nav4.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/ic_nav4.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/home_bg.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/home_bg.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_nav4.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/ic_nav4.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/switch_thumb_on.png",
@@ -164,12 +164,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/credit_card_enabled.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_signin.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/logo_signin.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/on_sale_item6.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/on_sale_item6.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_signin.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-xhdpi/logo_signin.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-xhdpi/size_guide.png",

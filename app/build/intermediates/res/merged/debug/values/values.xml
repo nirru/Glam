@@ -747,6 +747,8 @@
     <dimen name="product_image_gallery_thumbnail_indicator_height">60dp</dimen>
     <dimen name="product_image_gallery_thumbnail_indicator_width">60dp</dimen>
     <dimen name="scroll_view_bottom_padding">110dp</dimen>
+    <dimen name="size_cart_delete_size">32dp</dimen>
+    <dimen name="size_cart_image_size">150dp</dimen>
     <dimen name="spacing_12dp">12dp</dimen>
     <dimen name="spacing_16dp">16dp</dimen>
     <dimen name="spacing_4dp">4dp</dimen>
@@ -2020,6 +2022,10 @@
     </style>
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="DialogStyle" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowMinWidthMajor">40%</item>
+        <item name="android:windowMinWidthMinor">40%</item>
     </style>
     <style name="Divider">
         <item name="android:layout_width">match_parent</item>

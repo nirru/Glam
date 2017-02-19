@@ -100,12 +100,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-hdpi-v4/design_ic_visibility.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",

@@ -1,5 +1,8 @@
 <resources>
 
+
+    <dimen name="size_cart_image_size">150dp</dimen>
+	<dimen name="size_cart_delete_size">32dp</dimen>
     <dimen name="pad_1dp">1dp</dimen>
     <dimen name="pad_3dp">3dp</dimen>
 	<dimen name="pad_5dp">5dp</dimen>

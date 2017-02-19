@@ -172,10 +172,10 @@ public final class R {
 		public static final int wallet_buy_button_place_holder = 0x7f060026;
 	}
 	public static final class style {
-		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f080136;
-		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f080137;
-		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f080138;
-		public static final int WalletFragmentDefaultStyle = 0x7f080139;
+		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f080137;
+		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f080138;
+		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f080139;
+		public static final int WalletFragmentDefaultStyle = 0x7f08013a;
 	}
 	public static final class styleable {
 		public static final int[] CustomWalletTheme = { 0x7f0100cd, 0x7f0100ce };

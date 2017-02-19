@@ -80,6 +80,10 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/layout/checkout_list_item.xml",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/layout/checkout_list_item.xml"
+    },
+    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_bottom_sheet_dialog.xml"
     },
@@ -302,6 +306,10 @@
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/layout/settings.xml",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/layout/no_internet.xml",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/layout/no_internet.xml"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",

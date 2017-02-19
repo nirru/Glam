@@ -1,4 +1,4 @@
-<com.glam.ui.productdetail.ProductDetailsFragmentView
+<com.lotche.ui.productdetail.ProductDetailsFragmentView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -141,4 +141,4 @@
         android:layout_above="@id/checkout_button_container" >
     </android.support.design.widget.CoordinatorLayout>
 
-</com.glam.ui.productdetail.ProductDetailsFragmentView>
+</com.lotche.ui.productdetail.ProductDetailsFragmentView>

@@ -151,8 +151,8 @@ public final class R {
 		public static final int strict_sandbox = 0x7f0d0050;
 		public static final int terrain = 0x7f0d0041;
 		public static final int test = 0x7f0d0051;
-		public static final int text = 0x7f0d00fe;
-		public static final int text2 = 0x7f0d00fc;
+		public static final int text = 0x7f0d0101;
+		public static final int text2 = 0x7f0d00ff;
 		public static final int wide = 0x7f0d0049;
 		public static final int wrap_content = 0x7f0d0024;
 	}
@@ -184,10 +184,10 @@ public final class R {
 		public static final int wallet_buy_button_place_holder = 0x7f060026;
 	}
 	public static final class style {
-		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f080136;
-		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f080137;
-		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f080138;
-		public static final int WalletFragmentDefaultStyle = 0x7f080139;
+		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f080137;
+		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f080138;
+		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f080139;
+		public static final int WalletFragmentDefaultStyle = 0x7f08013a;
 	}
 	public static final class styleable {
 		public static final int[] CustomWalletTheme = { 0x7f0100cd, 0x7f0100ce };

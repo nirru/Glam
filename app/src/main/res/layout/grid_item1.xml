@@ -16,18 +16,8 @@
         android:id="@+id/rel_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
-
-        <!--<ImageView-->
-            <!--android:id="@+id/delete_cart"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:scaleType="centerInside"-->
-            <!--android:layout_alignParentRight="true"-->
-            <!--android:layout_alignParentTop="true"-->
-            <!--android:padding="@dimen/pad_5dp"-->
-            <!--android:src="@drawable/delete_cart"/>-->
-
         <FrameLayout
+            android:id="@+id/frame_id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -35,8 +25,8 @@
                 android:id="@+id/img"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:minHeight="@dimen/size_cart_image_size"
                 android:src="@drawable/on_sale_item1"
-                android:minHeight="@dimen/pad_250dp"
                 android:visibility="visible"
                 android:scaleType="centerInside" />
 
@@ -49,25 +39,8 @@
                 android:padding="@dimen/pad_5dp"
                 android:src="@drawable/delete_cart"/>
 
-            <ImageView
-                android:id="@+id/btnAdd"
-                android:layout_width="32dp"
-                android:layout_height="32dp"
-                android:padding="@dimen/pad_5dp"
-                android:layout_gravity="bottom|right"
-                android:scaleType="centerInside"
-                android:src="@drawable/heart_blank" />
         </FrameLayout>
 
-        <!--<ImageView-->
-            <!--android:id="@+id/img"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:src="@drawable/on_sale_item1"-->
-            <!--android:layout_toLeftOf="@+id/delete_cart"-->
-            <!--android:minHeight="@dimen/pad_250dp"-->
-            <!--android:visibility="visible"-->
-            <!--android:scaleType="centerInside" />-->
 
         <RelativeLayout
             android:id="@+id/counter"
@@ -114,10 +87,11 @@
             android:id="@+id/lbl1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:visibility="gone"
+            android:visibility="visible"
             android:ellipsize="end"
             android:maxLines="2"
             android:text="Ally Capellino Frank Brown - Fott Shop 2014"
+            android:layout_below="@id/frame_id"
             android:textColor="@color/main_grey_dk1"
             android:textSize="@dimen/txt_12sp"
             android:paddingLeft="@dimen/pad_15dp"
@@ -128,7 +102,8 @@
             android:id="@+id/lbl3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:visibility="gone"
+            android:visibility="visible"
+            android:layout_below="@+id/lbl1"
             android:text="xyz.com"
             android:paddingLeft="@dimen/pad_15dp"
             android:paddingTop="@dimen/pad_3dp"
@@ -137,13 +112,39 @@
             android:textColor="@color/main_grey"
             android:textSize="@dimen/txt_12sp" />
 
+
+        <TextView
+            android:id="@+id/lbl6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Size"
+            android:visibility="visible"
+            android:layout_below="@+id/lbl3"
+            android:paddingLeft="@dimen/pad_15dp"
+            android:textColor="@color/main_grey"
+            android:textSize="@dimen/txt_12sp"
+            android:textStyle="bold"  />
+
+        <TextView
+            android:id="@+id/lbl7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:text="XL"
+            android:layout_below="@+id/lbl3"
+            android:layout_toRightOf="@+id/lbl6"
+            android:paddingLeft="@dimen/pad_5dp"
+            android:textColor="@color/main_grey_dk1"
+            android:textSize="@dimen/txt_12sp"
+            android:textStyle="bold" />
+
         <TextView
             android:id="@+id/lbl4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:visibility="gone"
+            android:visibility="visible"
             android:text="INR"
-            android:layout_below="@+id/lbl3"
+            android:layout_below="@+id/lbl6"
             android:paddingLeft="@dimen/pad_15dp"
             android:paddingBottom="@dimen/pad_5dp"
             android:textColor="@color/main_grey"
@@ -154,9 +155,9 @@
             android:id="@+id/lbl2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:visibility="gone"
+            android:visibility="visible"
             android:text="$000-$000"
-            android:layout_below="@+id/lbl3"
+            android:layout_below="@+id/lbl6"
             android:layout_toRightOf="@+id/lbl4"
             android:paddingLeft="@dimen/pad_5dp"
             android:paddingBottom="@dimen/pad_5dp"
@@ -164,15 +165,16 @@
             android:textSize="@dimen/txt_12sp"
             android:textStyle="bold" />
 
-        <!--<ImageView-->
-            <!--android:id="@+id/btnAdd"-->
-            <!--android:layout_width="32dp"-->
-            <!--android:layout_height="32dp"-->
-            <!--android:layout_below="@+id/lbl3"-->
-            <!--android:layout_marginRight="@dimen/pad_5dp"-->
-            <!--android:layout_alignParentRight="true"-->
-            <!--android:scaleType="centerInside"-->
-            <!--android:src="@drawable/heart_blank" />-->
+        <ImageView
+            android:id="@+id/btnAdd"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignBottom="@+id/lbl2"
+            android:paddingBottom="@dimen/pad_5dp"
+            android:layout_marginRight="@dimen/pad_5dp"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/heart_blank" />
     </RelativeLayout>
 
 </android.support.v7.widget.CardView>

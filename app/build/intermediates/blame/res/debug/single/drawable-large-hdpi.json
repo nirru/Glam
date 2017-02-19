@@ -8,12 +8,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/ic_nav4_sel.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/on_sale_item2.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/on_sale_item2.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/minus_circle.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/minus_circle.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/on_sale_item2.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/on_sale_item2.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/ic_nav1_sel.png",
@@ -216,12 +216,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/cart.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/logo_signin.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/logo_signin.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/product_detail_bottom_banner.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/product_detail_bottom_banner.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/logo_signin.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/logo_signin.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/on_sale_item5.png",
@@ -256,12 +256,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/button_more.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/heart_blank.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/heart_blank.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/button_reply.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/button_reply.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/heart_blank.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/heart_blank.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/edittext_bg.png",
@@ -280,12 +280,12 @@
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/on_sale_item4.png"
     },
     {
-        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/ic_close_white_24dp.png",
-        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/ic_close_white_24dp.png"
-    },
-    {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/popularity_img4.png",
         "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/popularity_img4.png"
+    },
+    {
+        "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/ic_close_white_24dp.png",
+        "source": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/src/main/res/drawable-large-hdpi/ic_close_white_24dp.png"
     },
     {
         "merged": "/media/nikk/Extras/Oxilo/GlamAndroidTemplate/Glam Shopping Android/Glam Main Android Studio/app/build/intermediates/res/merged/debug/drawable-large-hdpi/product_detail_img.png",

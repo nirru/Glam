@@ -116,4 +116,9 @@
         <item name="android:textSize">@dimen/text_medium</item>
     </style>
 
+    <style name="DialogStyle" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowMinWidthMajor">40%</item>
+        <item name="android:windowMinWidthMinor">40%</item>
+    </style>
+
 </resources>
